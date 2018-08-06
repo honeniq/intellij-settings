@@ -9,11 +9,11 @@
         <mark key="." line="6" column="30" />
         <mark key="^" line="6" column="30" />
       </file>
-      <file name="$USER_HOME$/repos/guider-kotlin-api/src/main/kotlin/jp/co/ponos/Guider/model/User.kt" timestamp="1533546980171">
-        <mark key="[" line="17" column="51" />
-        <mark key="]" line="17" column="3" />
-        <mark key="." line="17" column="3" />
-        <mark key="^" line="17" column="3" />
+      <file name="$USER_HOME$/repos/guider-kotlin-api/src/main/kotlin/jp/co/ponos/Guider/model/User.kt" timestamp="1533548775918">
+        <mark key="[" line="21" column="4" />
+        <mark key="]" line="21" column="5" />
+        <mark key="." line="21" column="5" />
+        <mark key="^" line="21" column="5" />
       </file>
       <file name="$USER_HOME$/repos/guider-kotlin-api/src/main/kotlin/jp/co/ponos/Guider/repository/UserRepository.kt" timestamp="1533536225782">
         <mark key="[" line="2" column="0" />
@@ -35,10 +35,10 @@
     <jumps />
     <registers>
       <register name="&quot;" type="4">
-        <text>.</text>
+        <text>?</text>
       </register>
       <register name="-" type="4">
-        <text>.</text>
+        <text>?</text>
       </register>
       <register name="0" type="4">
         <text>(mappedBy = &quot;translation_id&quot;)</text>

@@ -54,7 +54,12 @@
         <mark key="]" line="28" column="0" />
         <mark key="." line="28" column="0" />
       </file>
-      <file name="$USER_HOME$/.ghq/atlassian.ponos.co.jp:7999/guid/guider-kotlin-api/src/main/kotlin/jp/co/ponos/Guider/model/User.kt" timestamp="1532056915747" />
+      <file name="$USER_HOME$/.ghq/atlassian.ponos.co.jp:7999/guid/guider-kotlin-api/src/main/kotlin/jp/co/ponos/Guider/model/User.kt" timestamp="1533535334708">
+        <mark key="[" line="13" column="23" />
+        <mark key="]" line="13" column="22" />
+        <mark key="^" line="13" column="22" />
+        <mark key="." line="13" column="22" />
+      </file>
       <file name="$USER_HOME$/repos/guider-kotlin-api/src/main/kotlin/jp/co/ponos/Guider/model/UserAuthentication.kt" timestamp="1531469838006">
         <mark key="[" line="19" column="34" />
         <mark key="]" line="19" column="34" />

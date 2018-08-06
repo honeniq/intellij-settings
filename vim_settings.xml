@@ -3,56 +3,72 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/repos/guider-kotlin-api/src/main/kotlin/jp/co/ponos/Guider/model/UserMultilang.kt" timestamp="1533535255399">
-        <mark key="[" line="14" column="0" />
-        <mark key="]" line="14" column="0" />
-        <mark key="." line="14" column="0" />
-        <mark key="^" line="11" column="19" />
+      <file name="$USER_HOME$/repos/guider-kotlin-api/src/main/kotlin/jp/co/ponos/Guider/model/UserMultilang.kt" timestamp="1533536055976">
+        <mark key="[" line="6" column="19" />
+        <mark key="]" line="6" column="30" />
+        <mark key="." line="6" column="30" />
+        <mark key="^" line="6" column="30" />
       </file>
-      <file name="$USER_HOME$/repos/guider-kotlin-api/src/main/kotlin/jp/co/ponos/Guider/model/User.kt" timestamp="1533535175861">
+      <file name="$USER_HOME$/repos/guider-kotlin-api/src/main/kotlin/jp/co/ponos/Guider/model/User.kt" timestamp="1533538855838">
+        <mark key="[" line="18" column="0" />
+        <mark key="]" line="18" column="0" />
+        <mark key="." line="18" column="0" />
+      </file>
+      <file name="$USER_HOME$/repos/guider-kotlin-api/src/main/kotlin/jp/co/ponos/Guider/repository/UserRepository.kt" timestamp="1533536225782">
         <mark key="[" line="2" column="0" />
-        <mark key="]" line="2" column="26" />
-        <mark key="^" line="3" column="20" />
-        <mark key="." line="3" column="20" />
+        <mark key="]" line="10" column="51" />
+      </file>
+      <file name="$USER_HOME$/repos/guider-kotlin-api/src/main/kotlin/jp/co/ponos/Guider/model/UserTranslation.kt" timestamp="1533538914383">
+        <mark key="[" line="11" column="21" />
+        <mark key="]" line="11" column="24" />
+        <mark key="^" line="11" column="24" />
+        <mark key="." line="11" column="24" />
+      </file>
+      <file name="$USER_HOME$/repos/guider-kotlin-api/src/main/kotlin/jp/co/ponos/Guider/repository/UserTranslationRepository.kt" timestamp="1533536248006">
+        <mark key="[" line="10" column="14" />
+        <mark key="]" line="10" column="34" />
+        <mark key="." line="10" column="34" />
+        <mark key="^" line="10" column="34" />
       </file>
     </filemarks>
     <jumps />
     <registers>
       <register name="&quot;" type="4">
-        <text encoding="base64">IA==</text>
+        <text>Int</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>Int</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">aW1wb3J0IGphdmEudGltZS5Mb2NhbERhdGUK</text>
+      <register name="0" type="4">
+        <text>(mappedBy = &quot;translation_id&quot;)</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICB2YWwgZ3JlZXRpbmc6IFN0cmluZz8gPSBudWxsLCAgICAgLy8gZGVwcmVjYXRlZAo=</text>
+        <text encoding="base64">ICAgIHZhbCBncmVldGluZ19pZDogTG9uZyA9IDAsCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICB2YWwgZmF2b3JpdGVUb3VySWQ6IExvbmc/ID0gbnVsbCwK</text>
+        <text encoding="base64">ICAgIEBHZW5lcmF0ZWRWYWx1ZSBAT25lVG9NYW55KG1hcHBlZEJ5ID0gInRyYW5zbGF0aW9uX2lkIikK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICB2YWwgcmF0aW5nOiBCeXRlID0gMCwK</text>
+        <text encoding="base64">ICAgIHZhbCBpbnRlcmVzdGluZ19pZDogTG9uZyA9IDAsCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICB2YWwgc3RhdHVzOiBCeXRlID0gMCwK</text>
+        <text encoding="base64">ICAgIEBHZW5lcmF0ZWRWYWx1ZSBAT25lVG9NYW55KG1hcHBlZEJ5ID0gInRyYW5zbGF0aW9uX2lkIikK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICB2YWwgY291bnRyeTogQnl0ZSA9IDAsCg==</text>
+        <text encoding="base64">ICAgIHZhbCBjcmVhdGVkRGF0ZTogTG9jYWxEYXRlID0gTG9jYWxEYXRlLm5vdygpLAogICAgdmFsIHVwZGF0ZWREYXRlOiBMb2NhbERhdGUgPSBMb2NhbERhdGUK</text>
       </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICB2YWwgcm9sZTogQnl0ZSA9IDAsCg==</text>
+      <register name="6" type="4">
+        <text>.now(),
+    val isDeleted: Boolean = false</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICB2YWwgcm9sZTogQnl0ZSA9IDAsCg==</text>
+        <text encoding="base64">ICAgICAgICB2YWwgZ3JlZXRpbmc6IFN0cmluZz8gPSBudWxsLCAgICAgLy8gZGVwcmVjYXRlZAo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICB2YWwgbmFtZTogU3RyaW5nID0gIiIsCg==</text>
+        <text encoding="base64">ICAgICAgICB2YWwgZmF2b3JpdGVUb3VySWQ6IExvbmc/ID0gbnVsbCwK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICB2YWwgcHJvZmlsZUltYWdlOiBTdHJpbmc/ID0gbnVsbCwK</text>
+        <text encoding="base64">ICAgICAgICB2YWwgcmF0aW5nOiBCeXRlID0gMCwK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
@@ -63,9 +79,12 @@
       <show-last>false</show-last>
     </search>
     <history>
+      <history-search />
       <history-cmd>
         <entry>w</entry>
       </history-cmd>
+      <history-expr />
+      <history-input />
     </history>
     <shortcut-conflicts />
     <editor>

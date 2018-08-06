@@ -3,17 +3,70 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/repos/guider-kotlin-api/src/main/kotlin/jp/co/ponos/Guider/model/User.kt" timestamp="1533534377878">
-        <mark key="[" line="17" column="36" />
+      <file name="$USER_HOME$/repos/guider-kotlin-api/src/main/kotlin/jp/co/ponos/Guider/model/UserMultilang.kt" timestamp="1533535255399">
+        <mark key="[" line="14" column="0" />
+        <mark key="]" line="14" column="0" />
+        <mark key="." line="14" column="0" />
+        <mark key="^" line="11" column="19" />
+      </file>
+      <file name="$USER_HOME$/repos/guider-kotlin-api/src/main/kotlin/jp/co/ponos/Guider/model/User.kt" timestamp="1533535175861">
+        <mark key="[" line="2" column="0" />
+        <mark key="]" line="2" column="26" />
+        <mark key="^" line="3" column="20" />
+        <mark key="." line="3" column="20" />
       </file>
     </filemarks>
     <jumps />
-    <registers />
+    <registers>
+      <register name="&quot;" type="4">
+        <text encoding="base64">IA==</text>
+      </register>
+      <register name="-" type="4">
+        <text encoding="base64">IA==</text>
+      </register>
+      <register name="0" type="2">
+        <text encoding="base64">aW1wb3J0IGphdmEudGltZS5Mb2NhbERhdGUK</text>
+      </register>
+      <register name="1" type="2">
+        <text encoding="base64">ICAgICAgICB2YWwgZ3JlZXRpbmc6IFN0cmluZz8gPSBudWxsLCAgICAgLy8gZGVwcmVjYXRlZAo=</text>
+      </register>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgICAgICB2YWwgZmF2b3JpdGVUb3VySWQ6IExvbmc/ID0gbnVsbCwK</text>
+      </register>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgICAgICB2YWwgcmF0aW5nOiBCeXRlID0gMCwK</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAgICB2YWwgc3RhdHVzOiBCeXRlID0gMCwK</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgICB2YWwgY291bnRyeTogQnl0ZSA9IDAsCg==</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgICB2YWwgcm9sZTogQnl0ZSA9IDAsCg==</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgICAgICB2YWwgcm9sZTogQnl0ZSA9IDAsCg==</text>
+      </register>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgICAgICB2YWwgbmFtZTogU3RyaW5nID0gIiIsCg==</text>
+      </register>
+      <register name="9" type="2">
+        <text encoding="base64">ICAgICAgICB2YWwgcHJvZmlsZUltYWdlOiBTdHJpbmc/ID0gbnVsbCwK</text>
+      </register>
+      <register name=":" type="4">
+        <text>w</text>
+      </register>
+    </registers>
     <search>
       <last-dir>0</last-dir>
       <show-last>false</show-last>
     </search>
-    <history />
+    <history>
+      <history-cmd>
+        <entry>w</entry>
+      </history-cmd>
+    </history>
     <shortcut-conflicts />
     <editor>
       <key-repeat enabled="true" />

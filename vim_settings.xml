@@ -18,11 +18,11 @@
         <mark key="[" line="2" column="0" />
         <mark key="]" line="10" column="51" />
       </file>
-      <file name="$USER_HOME$/repos/guider-kotlin-api/src/main/kotlin/jp/co/ponos/Guider/model/UserTranslation.kt" timestamp="1533543902136">
-        <mark key="[" line="10" column="48" />
-        <mark key="]" line="10" column="47" />
-        <mark key="^" line="10" column="47" />
-        <mark key="." line="10" column="47" />
+      <file name="$USER_HOME$/repos/guider-kotlin-api/src/main/kotlin/jp/co/ponos/Guider/model/UserTranslation.kt" timestamp="1533546421564">
+        <mark key="[" line="10" column="50" />
+        <mark key="]" line="10" column="50" />
+        <mark key="^" line="10" column="56" />
+        <mark key="." line="10" column="50" />
       </file>
       <file name="$USER_HOME$/repos/guider-kotlin-api/src/main/kotlin/jp/co/ponos/Guider/repository/UserTranslationRepository.kt" timestamp="1533536248006">
         <mark key="[" line="10" column="14" />
@@ -34,10 +34,10 @@
     <jumps />
     <registers>
       <register name="&quot;" type="4">
-        <text encoding="base64">IA==</text>
+        <text>.</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>.</text>
       </register>
       <register name="0" type="4">
         <text>(mappedBy = &quot;translation_id&quot;)</text>

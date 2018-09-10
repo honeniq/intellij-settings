@@ -10,10 +10,10 @@
         <mark key="^" line="6" column="30" />
       </file>
       <file name="$USER_HOME$/repos/guider-kotlin-api/src/main/kotlin/jp/co/ponos/Guider/model/User.kt" timestamp="1533610456369">
-        <mark key="[" line="20" column="32" />
-        <mark key="]" line="20" column="53" />
-        <mark key="." line="20" column="28" />
-        <mark key="^" line="20" column="28" />
+        <mark key="[" line="25" column="32" />
+        <mark key="]" line="25" column="53" />
+        <mark key="." line="25" column="28" />
+        <mark key="^" line="25" column="28" />
       </file>
       <file name="$USER_HOME$/repos/guider-kotlin-api/src/main/kotlin/jp/co/ponos/Guider/repository/UserRepository.kt" timestamp="1533536225782">
         <mark key="[" line="2" column="0" />
@@ -21,7 +21,6 @@
       </file>
       <file name="$USER_HOME$/repos/guider-kotlin-api/src/main/kotlin/jp/co/ponos/Guider/service/UserService.kt" timestamp="1533607955857">
         <mark key="[" line="0" column="0" />
-        <mark key="]" line="12" column="58" />
       </file>
       <file name="$USER_HOME$/repos/guider-kotlin-api/src/main/kotlin/jp/co/ponos/Guider/model/UserTranslation.kt" timestamp="1533610628151">
         <mark key="[" line="13" column="32" />

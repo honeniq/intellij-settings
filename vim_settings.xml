@@ -15,6 +15,7 @@
         <mark key="." line="25" column="28" />
         <mark key="^" line="25" column="28" />
       </file>
+      <file name="$USER_HOME$/repos/PLED/api-server/src/com/dalcomsoft/superstar/CommandExecutor.java" timestamp="1553657293376" />
       <file name="$USER_HOME$/repos/guider-kotlin-api/src/main/kotlin/jp/co/ponos/Guider/repository/UserRepository.kt" timestamp="1533536225782">
         <mark key="[" line="2" column="0" />
         <mark key="]" line="10" column="51" />
@@ -35,7 +36,7 @@
         <mark key="." line="10" column="25" />
         <mark key="^" line="10" column="34" />
       </file>
-      <file name="$USER_HOME$/repos/PLED/api-server/src/com/dalcomsoft/superstar/command/Account.java" timestamp="1553656081230">
+      <file name="$USER_HOME$/repos/PLED/api-server/src/com/dalcomsoft/superstar/command/Account.java" timestamp="1553656807527">
         <mark key="[" line="1556" column="33" />
         <mark key="]" line="1556" column="32" />
         <mark key="^" line="1556" column="32" />
@@ -88,7 +89,7 @@
     val isDeleted: Boolean = false</text>
       </register>
       <register name=":" type="4">
-        <text>w</text>
+        <text>action Find</text>
       </register>
     </registers>
     <search>
@@ -99,6 +100,7 @@
       <history-search />
       <history-cmd>
         <entry>w</entry>
+        <entry>action Find</entry>
       </history-cmd>
       <history-expr />
       <history-input />

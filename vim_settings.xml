@@ -35,11 +35,11 @@
         <mark key="." line="10" column="25" />
         <mark key="^" line="10" column="34" />
       </file>
-      <file name="$USER_HOME$/repos/PLED/api-server/src/com/dalcomsoft/superstar/command/Account.java" timestamp="1553596905734">
-        <mark key="[" line="1554" column="5" />
-        <mark key="]" line="1597" column="4" />
-        <mark key="^" line="1597" column="4" />
-        <mark key="." line="1597" column="4" />
+      <file name="$USER_HOME$/repos/PLED/api-server/src/com/dalcomsoft/superstar/command/Account.java" timestamp="1553656081230">
+        <mark key="[" line="1556" column="33" />
+        <mark key="]" line="1556" column="32" />
+        <mark key="^" line="1556" column="32" />
+        <mark key="." line="1556" column="32" />
       </file>
       <file name="$USER_HOME$/repos/guider-kotlin-api/src/main/kotlin/jp/co/ponos/Guider/service/UserTranslationService.kt" timestamp="1533609483792">
         <mark key="[" line="15" column="4" />
@@ -51,13 +51,13 @@
     <jumps />
     <registers>
       <register name="&quot;" type="4">
-        <text encoding="base64">IA==</text>
+        <text>회</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>회</text>
       </register>
-      <register name="0" type="4">
-        <text>fetch=FetchType.EAGER)</text>
+      <register name="0" type="2">
+        <text encoding="base64">CSAvKioKICAgICAqIOycoOyggOygleuztCDsobDtmowKICAgICAqIEByZXR1cm4KICAgICAqIEB0aHJvd3MgUGxhdGZvcm1FeGNlcHRpb24KICAgICAqLwo=</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgIEBKb2luQ29sdW1uKG5hbWU9InVzZXJfaWQiLCB0YWJsZT0idXNlcnMiLCByZWZlcmVuY2VkQ29sdW1uTmFtZT0iaWQiKQo=</text>
